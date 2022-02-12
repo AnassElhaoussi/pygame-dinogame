@@ -1,0 +1,1 @@
+obstacles.append(Obstacle(bc2,1))
